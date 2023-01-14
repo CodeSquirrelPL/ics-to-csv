@@ -1,0 +1,29 @@
+wzór csv:
+
+imię,opis,ocena
+Andrzej Nowak,fajny,4
+"Jan Wiśniewski","fajny","2"
+Kowalski,"wiecznie pyta ""która godzina"", ale może być",5
+
+BEGIN:VEVENT {
+  UID - ignoruj
+  DTSTAMP - ignoruj
+  DTSTART - zapisz
+  SUMMARY - zapisz
+  DESCRIPTION - zapisz, ale bez URL
+  URL - zapisz
+} END:VEVENT
+
+
+DTSTART, SUMMARY, DESCRIPTION-url, URL;
+
+
+
+
+array of objects (events)
+
+loop: events
+  loop: every property of an event
+
+while (there is another line)
+  until END:VEVENT

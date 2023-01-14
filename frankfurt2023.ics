@@ -1,0 +1,1580 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//in-the-sky.org//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:20230103_20_100@in-the-sky.org
+DTSTAMP:20230103T193625Z
+DTSTART:20230103T193625Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 0&deg;32&#39;. https://in-the-sky.org/news.php?id=20230103_20_100
+URL:https://in-the-sky.org/news.php?id=20230103_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230103_15_100@in-the-sky.org
+DTSTAMP:20230103T195124Z
+DTSTART:20230103T195124Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 0&deg;31&#39; of each other. https://in-the-sky.org/news.php?id=20230103_15_100
+URL:https://in-the-sky.org/news.php?id=20230103_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230104_10_100@in-the-sky.org
+DTSTAMP:20230104T041214Z
+DTSTART:20230104T041214Z
+SUMMARY:Quadrantid meteor shower 2023
+DESCRIPTION:The Quadrantid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230104_10_100
+URL:https://in-the-sky.org/news.php?id=20230104_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230104_07_100@in-the-sky.org
+DTSTAMP:20230104T161721Z
+DTSTART:20230104T161721Z
+SUMMARY:The Earth at perihelion
+DESCRIPTION:The Earth reaches its closest point to the Sun. https://in-the-sky.org/news.php?id=20230104_07_100
+URL:https://in-the-sky.org/news.php?id=20230104_07_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230106_08_100@in-the-sky.org
+DTSTAMP:20230106T230748Z
+DTSTART:20230106T230748Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230106_08_100
+URL:https://in-the-sky.org/news.php?id=20230106_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230112_12_100@in-the-sky.org
+DTSTAMP:20230112T205401Z
+DTSTART:20230112T205401Z
+SUMMARY:Mars ends retrograde motion
+DESCRIPTION:Mars returns to its usual eastward motion after opposition. https://in-the-sky.org/news.php?id=20230112_12_100
+URL:https://in-the-sky.org/news.php?id=20230112_12_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230115_08_100@in-the-sky.org
+DTSTAMP:20230115T021055Z
+DTSTART:20230115T021055Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230115_08_100
+URL:https://in-the-sky.org/news.php?id=20230115_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230119_10_100@in-the-sky.org
+DTSTAMP:20230119T162811Z
+DTSTART:20230119T162811Z
+SUMMARY:γ-Ursae Minorid meteor shower 2023
+DESCRIPTION:The γ-Ursae Minorid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230119_10_100
+URL:https://in-the-sky.org/news.php?id=20230119_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230124_11_100@in-the-sky.org
+DTSTAMP:20230124T151216Z
+DTSTART:20230124T151216Z
+SUMMARY:Mercury at dichotomy
+DESCRIPTION:Mercury reaches half phase in the dawn sky. https://in-the-sky.org/news.php?id=20230124_11_100
+URL:https://in-the-sky.org/news.php?id=20230124_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230126_20_100@in-the-sky.org
+DTSTAMP:20230126T020313Z
+DTSTART:20230126T020313Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 1&deg;48&#39;. https://in-the-sky.org/news.php?id=20230126_20_100
+URL:https://in-the-sky.org/news.php?id=20230126_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230126_15_100@in-the-sky.org
+DTSTAMP:20230126T033038Z
+DTSTART:20230126T033038Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 1&deg;36&#39; of each other. https://in-the-sky.org/news.php?id=20230126_15_100
+URL:https://in-the-sky.org/news.php?id=20230126_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230128_08_100@in-the-sky.org
+DTSTAMP:20230128T151920Z
+DTSTART:20230128T151920Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230128_08_100
+URL:https://in-the-sky.org/news.php?id=20230128_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230130_11_100@in-the-sky.org
+DTSTAMP:20230121T090522Z
+DTSTART:20230121T090522Z
+SUMMARY:Mercury at highest altitude in morning sky
+DESCRIPTION:Mercury is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20230130_11_100
+URL:https://in-the-sky.org/news.php?id=20230130_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230130_11_101@in-the-sky.org
+DTSTAMP:20230130T090522Z
+DTSTART:20230130T090522Z
+SUMMARY:Mercury at greatest elongation west
+DESCRIPTION:Mercury is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20230130_11_101
+URL:https://in-the-sky.org/news.php?id=20230130_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230131_20_100@in-the-sky.org
+DTSTAMP:20230131T042425Z
+DTSTART:20230131T042425Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 0&deg;06&#39;. https://in-the-sky.org/news.php?id=20230131_20_100
+URL:https://in-the-sky.org/news.php?id=20230131_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230131_15_100@in-the-sky.org
+DTSTAMP:20230131T042719Z
+DTSTART:20230131T042719Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 0&deg;06&#39; of each other. https://in-the-sky.org/news.php?id=20230131_15_100
+URL:https://in-the-sky.org/news.php?id=20230131_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230205_08_100@in-the-sky.org
+DTSTAMP:20230205T182829Z
+DTSTART:20230205T182829Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230205_08_100
+URL:https://in-the-sky.org/news.php?id=20230205_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230213_08_100@in-the-sky.org
+DTSTAMP:20230213T160118Z
+DTSTART:20230213T160118Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230213_08_100
+URL:https://in-the-sky.org/news.php?id=20230213_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230222_20_100@in-the-sky.org
+DTSTAMP:20230222T075553Z
+DTSTART:20230222T075553Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 2&deg;05&#39;. https://in-the-sky.org/news.php?id=20230222_20_100
+URL:https://in-the-sky.org/news.php?id=20230222_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230222_15_100@in-the-sky.org
+DTSTAMP:20230222T094137Z
+DTSTART:20230222T094137Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 1&deg;50&#39; of each other. https://in-the-sky.org/news.php?id=20230222_15_100
+URL:https://in-the-sky.org/news.php?id=20230222_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230222_20_101@in-the-sky.org
+DTSTAMP:20230222T220041Z
+DTSTART:20230222T220041Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 1&deg;11&#39;. https://in-the-sky.org/news.php?id=20230222_20_101
+URL:https://in-the-sky.org/news.php?id=20230222_20_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230222_15_101@in-the-sky.org
+DTSTAMP:20230222T225723Z
+DTSTART:20230222T225723Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 1&deg;03&#39; of each other. https://in-the-sky.org/news.php?id=20230222_15_101
+URL:https://in-the-sky.org/news.php?id=20230222_15_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230227_08_100@in-the-sky.org
+DTSTAMP:20230227T080613Z
+DTSTART:20230227T080613Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230227_08_100
+URL:https://in-the-sky.org/news.php?id=20230227_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230228_15_100@in-the-sky.org
+DTSTAMP:20230228T041127Z
+DTSTART:20230228T041127Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 1&deg;03&#39; of each other. https://in-the-sky.org/news.php?id=20230228_15_100
+URL:https://in-the-sky.org/news.php?id=20230228_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230228_20_100@in-the-sky.org
+DTSTAMP:20230228T043151Z
+DTSTART:20230228T043151Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 1&deg;04&#39;. https://in-the-sky.org/news.php?id=20230228_20_100
+URL:https://in-the-sky.org/news.php?id=20230228_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230302_15_100@in-the-sky.org
+DTSTAMP:20230302T050515Z
+DTSTART:20230302T050515Z
+SUMMARY:Close approach of Venus and Jupiter
+DESCRIPTION:Venus and Jupiter pass within 0&deg;29&#39; of each other. https://in-the-sky.org/news.php?id=20230302_15_100
+URL:https://in-the-sky.org/news.php?id=20230302_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230302_20_101@in-the-sky.org
+DTSTAMP:20230302T104102Z
+DTSTART:20230302T104102Z
+SUMMARY:Conjunction of Venus and Jupiter
+DESCRIPTION:Venus and Jupiter share the same right ascension, at a separation of 0&deg;32&#39;. https://in-the-sky.org/news.php?id=20230302_20_101
+URL:https://in-the-sky.org/news.php?id=20230302_20_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230307_08_100@in-the-sky.org
+DTSTAMP:20230307T124018Z
+DTSTART:20230307T124018Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230307_08_100
+URL:https://in-the-sky.org/news.php?id=20230307_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230315_08_100@in-the-sky.org
+DTSTAMP:20230315T020848Z
+DTSTART:20230315T020848Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230315_08_100
+URL:https://in-the-sky.org/news.php?id=20230315_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230320_07_100@in-the-sky.org
+DTSTAMP:20230320T212026Z
+DTSTART:20230320T212026Z
+SUMMARY:March equinox
+DESCRIPTION:Day and night have equal length, marking the beginning of spring in the northern hemisphere and autumn in the southern hemisphere. https://in-the-sky.org/news.php?id=20230320_07_100
+URL:https://in-the-sky.org/news.php?id=20230320_07_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230324_20_100@in-the-sky.org
+DTSTAMP:20230324T102709Z
+DTSTART:20230324T102709Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 0&deg;06&#39;. https://in-the-sky.org/news.php?id=20230324_20_100
+URL:https://in-the-sky.org/news.php?id=20230324_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230324_15_100@in-the-sky.org
+DTSTAMP:20230324T103222Z
+DTSTART:20230324T103222Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 0&deg;05&#39; of each other. https://in-the-sky.org/news.php?id=20230324_15_100
+URL:https://in-the-sky.org/news.php?id=20230324_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230328_15_100@in-the-sky.org
+DTSTAMP:20230328T130417Z
+DTSTART:20230328T130417Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 2&deg;17&#39; of each other. https://in-the-sky.org/news.php?id=20230328_15_100
+URL:https://in-the-sky.org/news.php?id=20230328_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230328_20_100@in-the-sky.org
+DTSTAMP:20230328T131638Z
+DTSTART:20230328T131638Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 2&deg;17&#39;. https://in-the-sky.org/news.php?id=20230328_20_100
+URL:https://in-the-sky.org/news.php?id=20230328_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230329_08_100@in-the-sky.org
+DTSTAMP:20230329T023258Z
+DTSTART:20230329T023258Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230329_08_100
+URL:https://in-the-sky.org/news.php?id=20230329_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230406_08_100@in-the-sky.org
+DTSTAMP:20230406T043426Z
+DTSTART:20230406T043426Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230406_08_100
+URL:https://in-the-sky.org/news.php?id=20230406_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230409_11_100@in-the-sky.org
+DTSTAMP:20230409T032508Z
+DTSTART:20230409T032508Z
+SUMMARY:Mercury at dichotomy
+DESCRIPTION:Mercury reaches half phase in the evening sky. https://in-the-sky.org/news.php?id=20230409_11_100
+URL:https://in-the-sky.org/news.php?id=20230409_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230411_11_100@in-the-sky.org
+DTSTAMP:20230411T185149Z
+DTSTART:20230411T185149Z
+SUMMARY:Mercury at highest altitude in evening sky
+DESCRIPTION:Mercury is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20230411_11_100
+URL:https://in-the-sky.org/news.php?id=20230411_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230411_11_101@in-the-sky.org
+DTSTAMP:20230411T185149Z
+DTSTART:20230411T185149Z
+SUMMARY:Mercury at greatest elongation east
+DESCRIPTION:Mercury is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20230411_11_101
+URL:https://in-the-sky.org/news.php?id=20230411_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230413_08_100@in-the-sky.org
+DTSTAMP:20230413T091154Z
+DTSTART:20230413T091154Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230413_08_100
+URL:https://in-the-sky.org/news.php?id=20230413_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230416_20_100@in-the-sky.org
+DTSTAMP:20230416T034929Z
+DTSTART:20230416T034929Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 3&deg;29&#39;. https://in-the-sky.org/news.php?id=20230416_20_100
+URL:https://in-the-sky.org/news.php?id=20230416_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230416_15_100@in-the-sky.org
+DTSTAMP:20230416T061258Z
+DTSTART:20230416T061258Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 3&deg;11&#39; of each other. https://in-the-sky.org/news.php?id=20230416_15_100
+URL:https://in-the-sky.org/news.php?id=20230416_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230420_09_100@in-the-sky.org
+DTSTAMP:20230420T041700Z
+DTSTART:20230420T041700Z
+SUMMARY:Hybrid solar eclipse
+DESCRIPTION:There will be an eclipse of the Sun,  visible from countries and territories including western  Australia, eastern  Indonesia and East Timor. https://in-the-sky.org/news.php?id=20230420_09_100
+URL:https://in-the-sky.org/news.php?id=20230420_09_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230423_10_100@in-the-sky.org
+DTSTAMP:20230423T004240Z
+DTSTART:20230423T004240Z
+SUMMARY:Lyrid meteor shower 2023
+DESCRIPTION:The Lyrid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230423_10_100
+URL:https://in-the-sky.org/news.php?id=20230423_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230423_15_100@in-the-sky.org
+DTSTAMP:20230423T123149Z
+DTSTART:20230423T123149Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 1&deg;17&#39; of each other. https://in-the-sky.org/news.php?id=20230423_15_100
+URL:https://in-the-sky.org/news.php?id=20230423_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230423_20_100@in-the-sky.org
+DTSTAMP:20230423T130330Z
+DTSTART:20230423T130330Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 1&deg;18&#39;. https://in-the-sky.org/news.php?id=20230423_20_100
+URL:https://in-the-sky.org/news.php?id=20230423_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230426_20_100@in-the-sky.org
+DTSTAMP:20230426T021929Z
+DTSTART:20230426T021929Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 3&deg;13&#39;. https://in-the-sky.org/news.php?id=20230426_20_100
+URL:https://in-the-sky.org/news.php?id=20230426_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230426_15_100@in-the-sky.org
+DTSTAMP:20230426T025603Z
+DTSTART:20230426T025603Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 3&deg;13&#39; of each other. https://in-the-sky.org/news.php?id=20230426_15_100
+URL:https://in-the-sky.org/news.php?id=20230426_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230427_08_100@in-the-sky.org
+DTSTAMP:20230427T212034Z
+DTSTART:20230427T212034Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230427_08_100
+URL:https://in-the-sky.org/news.php?id=20230427_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230505_09_100@in-the-sky.org
+DTSTAMP:20230505T172400Z
+DTSTART:20230505T172400Z
+SUMMARY:Penumbral lunar eclipse
+DESCRIPTION:There will be an eclipse of the Moon, visible from Antarctica, Asia, Russia, Africa and Oceania. https://in-the-sky.org/news.php?id=20230505_09_100
+URL:https://in-the-sky.org/news.php?id=20230505_09_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230505_08_100@in-the-sky.org
+DTSTAMP:20230505T173356Z
+DTSTART:20230505T173356Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230505_08_100
+URL:https://in-the-sky.org/news.php?id=20230505_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230506_10_100@in-the-sky.org
+DTSTAMP:20230506T144352Z
+DTSTART:20230506T144352Z
+SUMMARY:η-Aquariid meteor shower 2023
+DESCRIPTION:The η-Aquariid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230506_10_100
+URL:https://in-the-sky.org/news.php?id=20230506_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230509_10_100@in-the-sky.org
+DTSTAMP:20230509T044430Z
+DTSTART:20230509T044430Z
+SUMMARY:η-Lyrid meteor shower 2023
+DESCRIPTION:The η-Lyrid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230509_10_100
+URL:https://in-the-sky.org/news.php?id=20230509_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230512_08_100@in-the-sky.org
+DTSTAMP:20230512T142848Z
+DTSTART:20230512T142848Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230512_08_100
+URL:https://in-the-sky.org/news.php?id=20230512_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230513_20_100@in-the-sky.org
+DTSTAMP:20230513T130717Z
+DTSTART:20230513T130717Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 3&deg;17&#39;. https://in-the-sky.org/news.php?id=20230513_20_100
+URL:https://in-the-sky.org/news.php?id=20230513_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230513_15_100@in-the-sky.org
+DTSTAMP:20230513T152656Z
+DTSTART:20230513T152656Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;59&#39; of each other. https://in-the-sky.org/news.php?id=20230513_15_100
+URL:https://in-the-sky.org/news.php?id=20230513_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230523_20_100@in-the-sky.org
+DTSTAMP:20230523T120921Z
+DTSTART:20230523T120921Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 2&deg;12&#39;. https://in-the-sky.org/news.php?id=20230523_20_100
+URL:https://in-the-sky.org/news.php?id=20230523_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230523_15_100@in-the-sky.org
+DTSTAMP:20230523T123716Z
+DTSTART:20230523T123716Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 2&deg;11&#39; of each other. https://in-the-sky.org/news.php?id=20230523_15_100
+URL:https://in-the-sky.org/news.php?id=20230523_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230524_20_100@in-the-sky.org
+DTSTAMP:20230524T173319Z
+DTSTART:20230524T173319Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 3&deg;45&#39;. https://in-the-sky.org/news.php?id=20230524_20_100
+URL:https://in-the-sky.org/news.php?id=20230524_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230524_15_100@in-the-sky.org
+DTSTAMP:20230524T191953Z
+DTSTART:20230524T191953Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 3&deg;39&#39; of each other. https://in-the-sky.org/news.php?id=20230524_15_100
+URL:https://in-the-sky.org/news.php?id=20230524_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230527_08_100@in-the-sky.org
+DTSTAMP:20230527T152256Z
+DTSTART:20230527T152256Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230527_08_100
+URL:https://in-the-sky.org/news.php?id=20230527_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230529_11_101@in-the-sky.org
+DTSTAMP:20230529T074438Z
+DTSTART:20230529T074438Z
+SUMMARY:Mercury at greatest elongation west
+DESCRIPTION:Mercury is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20230529_11_101
+URL:https://in-the-sky.org/news.php?id=20230529_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230529_11_100@in-the-sky.org
+DTSTAMP:20230610T074438Z
+DTSTART:20230610T074438Z
+SUMMARY:Mercury at highest altitude in morning sky
+DESCRIPTION:Mercury is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20230529_11_100
+URL:https://in-the-sky.org/news.php?id=20230529_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230604_11_100@in-the-sky.org
+DTSTAMP:20230604T025624Z
+DTSTART:20230604T025624Z
+SUMMARY:Venus at dichotomy
+DESCRIPTION:Venus reaches half phase in the evening sky. https://in-the-sky.org/news.php?id=20230604_11_100
+URL:https://in-the-sky.org/news.php?id=20230604_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230604_08_100@in-the-sky.org
+DTSTAMP:20230604T034137Z
+DTSTART:20230604T034137Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230604_08_100
+URL:https://in-the-sky.org/news.php?id=20230604_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230604_11_101@in-the-sky.org
+DTSTAMP:20230604T060238Z
+DTSTART:20230604T060238Z
+SUMMARY:Mercury at dichotomy
+DESCRIPTION:Mercury reaches half phase in the dawn sky. https://in-the-sky.org/news.php?id=20230604_11_101
+URL:https://in-the-sky.org/news.php?id=20230604_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230604_11_102@in-the-sky.org
+DTSTAMP:20230428T161143Z
+DTSTART:20230428T161143Z
+SUMMARY:Venus at highest altitude in evening sky
+DESCRIPTION:Venus is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20230604_11_102
+URL:https://in-the-sky.org/news.php?id=20230604_11_102
+END:VEVENT
+BEGIN:VEVENT
+UID:20230604_11_103@in-the-sky.org
+DTSTAMP:20230604T161143Z
+DTSTART:20230604T161143Z
+SUMMARY:Venus at greatest elongation east
+DESCRIPTION:Venus is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20230604_11_103
+URL:https://in-the-sky.org/news.php?id=20230604_11_103
+END:VEVENT
+BEGIN:VEVENT
+UID:20230609_20_100@in-the-sky.org
+DTSTAMP:20230609T202254Z
+DTSTART:20230609T202254Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;58&#39;. https://in-the-sky.org/news.php?id=20230609_20_100
+URL:https://in-the-sky.org/news.php?id=20230609_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230609_15_100@in-the-sky.org
+DTSTAMP:20230609T222918Z
+DTSTART:20230609T222918Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;42&#39; of each other. https://in-the-sky.org/news.php?id=20230609_15_100
+URL:https://in-the-sky.org/news.php?id=20230609_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230610_08_100@in-the-sky.org
+DTSTAMP:20230610T193153Z
+DTSTART:20230610T193153Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230610_08_100
+URL:https://in-the-sky.org/news.php?id=20230610_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230611_10_100@in-the-sky.org
+DTSTAMP:20230611T015343Z
+DTSTART:20230611T015343Z
+SUMMARY:Daytime Arietid meteor shower 2023
+DESCRIPTION:The Daytime Arietid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230611_10_100
+URL:https://in-the-sky.org/news.php?id=20230611_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230614_15_101@in-the-sky.org
+DTSTAMP:20230614T052646Z
+DTSTART:20230614T052646Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 1&deg;22&#39; of each other. https://in-the-sky.org/news.php?id=20230614_15_101
+URL:https://in-the-sky.org/news.php?id=20230614_15_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230614_20_100@in-the-sky.org
+DTSTAMP:20230614T063602Z
+DTSTART:20230614T063602Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 1&deg;30&#39;. https://in-the-sky.org/news.php?id=20230614_20_100
+URL:https://in-the-sky.org/news.php?id=20230614_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230617_12_100@in-the-sky.org
+DTSTAMP:20230617T165158Z
+DTSTART:20230617T165158Z
+SUMMARY:Saturn enters retrograde motion
+DESCRIPTION:Saturn reverses its direction of motion across the sky. https://in-the-sky.org/news.php?id=20230617_12_100
+URL:https://in-the-sky.org/news.php?id=20230617_12_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230621_07_100@in-the-sky.org
+DTSTAMP:20230621T145409Z
+DTSTART:20230621T145409Z
+SUMMARY:June solstice
+DESCRIPTION:21 June will be the longest day of 2023 in the northern hemisphere. https://in-the-sky.org/news.php?id=20230621_07_100
+URL:https://in-the-sky.org/news.php?id=20230621_07_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230622_20_100@in-the-sky.org
+DTSTAMP:20230622T004857Z
+DTSTART:20230622T004857Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 3&deg;41&#39;. https://in-the-sky.org/news.php?id=20230622_20_100
+URL:https://in-the-sky.org/news.php?id=20230622_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230622_15_100@in-the-sky.org
+DTSTAMP:20230622T031353Z
+DTSTART:20230622T031353Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 3&deg;31&#39; of each other. https://in-the-sky.org/news.php?id=20230622_15_100
+URL:https://in-the-sky.org/news.php?id=20230622_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230622_20_101@in-the-sky.org
+DTSTAMP:20230622T101005Z
+DTSTART:20230622T101005Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 3&deg;47&#39;. https://in-the-sky.org/news.php?id=20230622_20_101
+URL:https://in-the-sky.org/news.php?id=20230622_20_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230622_15_101@in-the-sky.org
+DTSTAMP:20230622T125400Z
+DTSTART:20230622T125400Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 3&deg;34&#39; of each other. https://in-the-sky.org/news.php?id=20230622_15_101
+URL:https://in-the-sky.org/news.php?id=20230622_15_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230626_08_100@in-the-sky.org
+DTSTAMP:20230626T075021Z
+DTSTART:20230626T075021Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230626_08_100
+URL:https://in-the-sky.org/news.php?id=20230626_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230627_10_100@in-the-sky.org
+DTSTAMP:20230627T223402Z
+DTSTART:20230627T223402Z
+SUMMARY:June Bootid meteor shower 2023
+DESCRIPTION:The June Bootid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230627_10_100
+URL:https://in-the-sky.org/news.php?id=20230627_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230701_15_100@in-the-sky.org
+DTSTAMP:20230701T070947Z
+DTSTART:20230701T070947Z
+SUMMARY:Close approach of Venus and Mars
+DESCRIPTION:Venus and Mars pass within 3&deg;33&#39; of each other. https://in-the-sky.org/news.php?id=20230701_15_100
+URL:https://in-the-sky.org/news.php?id=20230701_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230703_08_101@in-the-sky.org
+DTSTAMP:20230703T113836Z
+DTSTART:20230703T113836Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230703_08_101
+URL:https://in-the-sky.org/news.php?id=20230703_08_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230706_07_100@in-the-sky.org
+DTSTAMP:20230706T200636Z
+DTSTART:20230706T200636Z
+SUMMARY:The Earth at aphelion
+DESCRIPTION:The Earth reaches its furthest point from the Sun. https://in-the-sky.org/news.php?id=20230706_07_100
+URL:https://in-the-sky.org/news.php?id=20230706_07_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230707_20_100@in-the-sky.org
+DTSTAMP:20230707T030927Z
+DTSTART:20230707T030927Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;40&#39;. https://in-the-sky.org/news.php?id=20230707_20_100
+URL:https://in-the-sky.org/news.php?id=20230707_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230707_15_100@in-the-sky.org
+DTSTAMP:20230707T045900Z
+DTSTART:20230707T045900Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;25&#39; of each other. https://in-the-sky.org/news.php?id=20230707_15_100
+URL:https://in-the-sky.org/news.php?id=20230707_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230709_11_100@in-the-sky.org
+DTSTAMP:20230709T175006Z
+DTSTART:20230709T175006Z
+SUMMARY:Venus at greatest brightness
+DESCRIPTION:Venus reaches its greatest brightness in the evening sky. https://in-the-sky.org/news.php?id=20230709_11_100
+URL:https://in-the-sky.org/news.php?id=20230709_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230710_08_100@in-the-sky.org
+DTSTAMP:20230710T014825Z
+DTSTART:20230710T014825Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230710_08_100
+URL:https://in-the-sky.org/news.php?id=20230710_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230711_15_100@in-the-sky.org
+DTSTAMP:20230711T194403Z
+DTSTART:20230711T194403Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 2&deg;03&#39; of each other. https://in-the-sky.org/news.php?id=20230711_15_100
+URL:https://in-the-sky.org/news.php?id=20230711_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230711_20_100@in-the-sky.org
+DTSTAMP:20230711T212137Z
+DTSTART:20230711T212137Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 2&deg;13&#39;. https://in-the-sky.org/news.php?id=20230711_20_100
+URL:https://in-the-sky.org/news.php?id=20230711_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230720_20_100@in-the-sky.org
+DTSTAMP:20230720T083854Z
+DTSTART:20230720T083854Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 7&deg;51&#39;. https://in-the-sky.org/news.php?id=20230720_20_100
+URL:https://in-the-sky.org/news.php?id=20230720_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230721_20_100@in-the-sky.org
+DTSTAMP:20230721T040059Z
+DTSTART:20230721T040059Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 3&deg;16&#39;. https://in-the-sky.org/news.php?id=20230721_20_100
+URL:https://in-the-sky.org/news.php?id=20230721_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230721_15_100@in-the-sky.org
+DTSTAMP:20230721T065729Z
+DTSTART:20230721T065729Z
+SUMMARY:Close approach of the Moon and Mars
+DESCRIPTION:The Moon and Mars pass within 2&deg;57&#39; of each other. https://in-the-sky.org/news.php?id=20230721_15_100
+URL:https://in-the-sky.org/news.php?id=20230721_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230725_08_100@in-the-sky.org
+DTSTAMP:20230725T220722Z
+DTSTART:20230725T220722Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230725_08_100
+URL:https://in-the-sky.org/news.php?id=20230725_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230729_10_100@in-the-sky.org
+DTSTAMP:20230729T091747Z
+DTSTART:20230729T091747Z
+SUMMARY:Piscis Austrinid meteor shower 2023
+DESCRIPTION:The Piscis Austrinid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230729_10_100
+URL:https://in-the-sky.org/news.php?id=20230729_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230730_10_100@in-the-sky.org
+DTSTAMP:20230730T175642Z
+DTSTART:20230730T175642Z
+SUMMARY:Southern δ-Aquariid meteor shower 2023
+DESCRIPTION:The Southern δ-Aquariid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230730_10_100
+URL:https://in-the-sky.org/news.php?id=20230730_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230730_10_101@in-the-sky.org
+DTSTAMP:20230730T181146Z
+DTSTART:20230730T181146Z
+SUMMARY:α-Capricornid meteor shower 2023
+DESCRIPTION:The α-Capricornid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230730_10_101
+URL:https://in-the-sky.org/news.php?id=20230730_10_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230801_08_100@in-the-sky.org
+DTSTAMP:20230801T183136Z
+DTSTART:20230801T183136Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230801_08_100
+URL:https://in-the-sky.org/news.php?id=20230801_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230803_20_100@in-the-sky.org
+DTSTAMP:20230803T102518Z
+DTSTART:20230803T102518Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;28&#39;. https://in-the-sky.org/news.php?id=20230803_20_100
+URL:https://in-the-sky.org/news.php?id=20230803_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230803_15_100@in-the-sky.org
+DTSTAMP:20230803T120317Z
+DTSTART:20230803T120317Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;15&#39; of each other. https://in-the-sky.org/news.php?id=20230803_15_100
+URL:https://in-the-sky.org/news.php?id=20230803_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230808_15_100@in-the-sky.org
+DTSTAMP:20230808T074544Z
+DTSTART:20230808T074544Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 2&deg;39&#39; of each other. https://in-the-sky.org/news.php?id=20230808_15_100
+URL:https://in-the-sky.org/news.php?id=20230808_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230808_20_100@in-the-sky.org
+DTSTAMP:20230808T094425Z
+DTSTART:20230808T094425Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 2&deg;52&#39;. https://in-the-sky.org/news.php?id=20230808_20_100
+URL:https://in-the-sky.org/news.php?id=20230808_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230808_08_100@in-the-sky.org
+DTSTAMP:20230808T102856Z
+DTSTART:20230808T102856Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230808_08_100
+URL:https://in-the-sky.org/news.php?id=20230808_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230809_11_100@in-the-sky.org
+DTSTAMP:20230809T111921Z
+DTSTART:20230809T111921Z
+SUMMARY:Mercury at dichotomy
+DESCRIPTION:Mercury reaches half phase in the evening sky. https://in-the-sky.org/news.php?id=20230809_11_100
+URL:https://in-the-sky.org/news.php?id=20230809_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230809_15_100@in-the-sky.org
+DTSTAMP:20230809T135248Z
+DTSTART:20230809T135248Z
+SUMMARY:Close approach of the Moon and M45
+DESCRIPTION:The Moon and M45 pass within 1&deg;20&#39; of each other. https://in-the-sky.org/news.php?id=20230809_15_100
+URL:https://in-the-sky.org/news.php?id=20230809_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230809_11_101@in-the-sky.org
+DTSTAMP:20230725T203033Z
+DTSTART:20230725T203033Z
+SUMMARY:Mercury at highest altitude in evening sky
+DESCRIPTION:Mercury is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20230809_11_101
+URL:https://in-the-sky.org/news.php?id=20230809_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230809_11_102@in-the-sky.org
+DTSTAMP:20230809T203033Z
+DTSTART:20230809T203033Z
+SUMMARY:Mercury at greatest elongation east
+DESCRIPTION:Mercury is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20230809_11_102
+URL:https://in-the-sky.org/news.php?id=20230809_11_102
+END:VEVENT
+BEGIN:VEVENT
+UID:20230813_10_100@in-the-sky.org
+DTSTAMP:20230813T074311Z
+DTSTART:20230813T074311Z
+SUMMARY:Perseid meteor shower 2023
+DESCRIPTION:The Perseid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230813_10_100
+URL:https://in-the-sky.org/news.php?id=20230813_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230818_10_100@in-the-sky.org
+DTSTAMP:20230818T123456Z
+DTSTART:20230818T123456Z
+SUMMARY:κ-Cygnid meteor shower 2023
+DESCRIPTION:The κ-Cygnid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230818_10_100
+URL:https://in-the-sky.org/news.php?id=20230818_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230824_08_100@in-the-sky.org
+DTSTAMP:20230824T095747Z
+DTSTART:20230824T095747Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230824_08_100
+URL:https://in-the-sky.org/news.php?id=20230824_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230827_12_100@in-the-sky.org
+DTSTAMP:20230827T082003Z
+DTSTART:20230827T082003Z
+SUMMARY:Saturn at opposition
+DESCRIPTION:Saturn is well placed in the sky. https://in-the-sky.org/news.php?id=20230827_12_100
+URL:https://in-the-sky.org/news.php?id=20230827_12_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230830_20_100@in-the-sky.org
+DTSTAMP:20230830T180717Z
+DTSTART:20230830T180717Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;29&#39;. https://in-the-sky.org/news.php?id=20230830_20_100
+URL:https://in-the-sky.org/news.php?id=20230830_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230830_15_100@in-the-sky.org
+DTSTAMP:20230830T194355Z
+DTSTART:20230830T194355Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;16&#39; of each other. https://in-the-sky.org/news.php?id=20230830_15_100
+URL:https://in-the-sky.org/news.php?id=20230830_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230831_08_100@in-the-sky.org
+DTSTAMP:20230831T013532Z
+DTSTART:20230831T013532Z
+SUMMARY:Blue Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230831_08_100
+URL:https://in-the-sky.org/news.php?id=20230831_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230901_10_100@in-the-sky.org
+DTSTAMP:20230901T150307Z
+DTSTART:20230901T150307Z
+SUMMARY:Aurigid meteor shower 2023
+DESCRIPTION:The Aurigid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230901_10_100
+URL:https://in-the-sky.org/news.php?id=20230901_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230904_12_100@in-the-sky.org
+DTSTAMP:20230904T141346Z
+DTSTART:20230904T141346Z
+SUMMARY:Jupiter enters retrograde motion
+DESCRIPTION:Jupiter reverses its direction of motion across the sky. https://in-the-sky.org/news.php?id=20230904_12_100
+URL:https://in-the-sky.org/news.php?id=20230904_12_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230904_15_100@in-the-sky.org
+DTSTAMP:20230904T173730Z
+DTSTART:20230904T173730Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 3&deg;04&#39; of each other. https://in-the-sky.org/news.php?id=20230904_15_100
+URL:https://in-the-sky.org/news.php?id=20230904_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230904_20_100@in-the-sky.org
+DTSTAMP:20230904T194729Z
+DTSTART:20230904T194729Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 3&deg;18&#39;. https://in-the-sky.org/news.php?id=20230904_20_100
+URL:https://in-the-sky.org/news.php?id=20230904_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230905_15_100@in-the-sky.org
+DTSTAMP:20230905T205115Z
+DTSTART:20230905T205115Z
+SUMMARY:Close approach of the Moon and M45
+DESCRIPTION:The Moon and M45 pass within 1&deg;06&#39; of each other. https://in-the-sky.org/news.php?id=20230905_15_100
+URL:https://in-the-sky.org/news.php?id=20230905_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230906_08_100@in-the-sky.org
+DTSTAMP:20230906T222139Z
+DTSTART:20230906T222139Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20230906_08_100
+URL:https://in-the-sky.org/news.php?id=20230906_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230909_10_100@in-the-sky.org
+DTSTAMP:20230909T233631Z
+DTSTART:20230909T233631Z
+SUMMARY:September ε-Perseid meteor shower 2023
+DESCRIPTION:The September ε-Perseid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230909_10_100
+URL:https://in-the-sky.org/news.php?id=20230909_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230918_11_100@in-the-sky.org
+DTSTAMP:20230918T120948Z
+DTSTART:20230918T120948Z
+SUMMARY:Venus at greatest brightness
+DESCRIPTION:Venus reaches its greatest brightness in the dawn sky. https://in-the-sky.org/news.php?id=20230918_11_100
+URL:https://in-the-sky.org/news.php?id=20230918_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230922_11_101@in-the-sky.org
+DTSTAMP:20230922T112731Z
+DTSTART:20230922T112731Z
+SUMMARY:Mercury at greatest elongation west
+DESCRIPTION:Mercury is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20230922_11_101
+URL:https://in-the-sky.org/news.php?id=20230922_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20230922_11_100@in-the-sky.org
+DTSTAMP:20230923T112731Z
+DTSTART:20230923T112731Z
+SUMMARY:Mercury at highest altitude in morning sky
+DESCRIPTION:Mercury is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20230922_11_100
+URL:https://in-the-sky.org/news.php?id=20230922_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230922_11_102@in-the-sky.org
+DTSTAMP:20230922T192623Z
+DTSTART:20230922T192623Z
+SUMMARY:Mercury at dichotomy
+DESCRIPTION:Mercury reaches half phase in the dawn sky. https://in-the-sky.org/news.php?id=20230922_11_102
+URL:https://in-the-sky.org/news.php?id=20230922_11_102
+END:VEVENT
+BEGIN:VEVENT
+UID:20230922_08_100@in-the-sky.org
+DTSTAMP:20230922T193219Z
+DTSTART:20230922T193219Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20230922_08_100
+URL:https://in-the-sky.org/news.php?id=20230922_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230923_07_100@in-the-sky.org
+DTSTAMP:20230923T064645Z
+DTSTART:20230923T064645Z
+SUMMARY:September equinox
+DESCRIPTION:Day and night have equal length, marking the beginning of autumn in the northern hemisphere and spring in the southern hemisphere. https://in-the-sky.org/news.php?id=20230923_07_100
+URL:https://in-the-sky.org/news.php?id=20230923_07_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230927_20_100@in-the-sky.org
+DTSTAMP:20230927T012910Z
+DTSTART:20230927T012910Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;38&#39;. https://in-the-sky.org/news.php?id=20230927_20_100
+URL:https://in-the-sky.org/news.php?id=20230927_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230927_15_100@in-the-sky.org
+DTSTAMP:20230927T031247Z
+DTSTART:20230927T031247Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;25&#39; of each other. https://in-the-sky.org/news.php?id=20230927_15_100
+URL:https://in-the-sky.org/news.php?id=20230927_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230928_10_100@in-the-sky.org
+DTSTAMP:20230928T001710Z
+DTSTART:20230928T001710Z
+SUMMARY:Daytime Sextantid meteor shower 2023
+DESCRIPTION:The Daytime Sextantid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20230928_10_100
+URL:https://in-the-sky.org/news.php?id=20230928_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20230929_08_100@in-the-sky.org
+DTSTAMP:20230929T095726Z
+DTSTART:20230929T095726Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20230929_08_100
+URL:https://in-the-sky.org/news.php?id=20230929_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231002_15_100@in-the-sky.org
+DTSTAMP:20231002T010830Z
+DTSTART:20231002T010830Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 3&deg;08&#39; of each other. https://in-the-sky.org/news.php?id=20231002_15_100
+URL:https://in-the-sky.org/news.php?id=20231002_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231002_20_100@in-the-sky.org
+DTSTAMP:20231002T031930Z
+DTSTART:20231002T031930Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 3&deg;23&#39;. https://in-the-sky.org/news.php?id=20231002_20_100
+URL:https://in-the-sky.org/news.php?id=20231002_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231003_15_100@in-the-sky.org
+DTSTAMP:20231003T054527Z
+DTSTART:20231003T054527Z
+SUMMARY:Close approach of the Moon and M45
+DESCRIPTION:The Moon and M45 pass within 0&deg;59&#39; of each other. https://in-the-sky.org/news.php?id=20231003_15_100
+URL:https://in-the-sky.org/news.php?id=20231003_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231006_10_100@in-the-sky.org
+DTSTAMP:20231006T105439Z
+DTSTART:20231006T105439Z
+SUMMARY:October Camelopardalid meteor shower 2023
+DESCRIPTION:The October Camelopardalid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231006_10_100
+URL:https://in-the-sky.org/news.php?id=20231006_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231006_08_100@in-the-sky.org
+DTSTAMP:20231006T134819Z
+DTSTART:20231006T134819Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20231006_08_100
+URL:https://in-the-sky.org/news.php?id=20231006_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231009_10_100@in-the-sky.org
+DTSTAMP:20231009T070112Z
+DTSTART:20231009T070112Z
+SUMMARY:Draconid meteor shower 2023
+DESCRIPTION:The Draconid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231009_10_100
+URL:https://in-the-sky.org/news.php?id=20231009_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231010_20_100@in-the-sky.org
+DTSTAMP:20231010T094550Z
+DTSTART:20231010T094550Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 6&deg;29&#39;. https://in-the-sky.org/news.php?id=20231010_20_100
+URL:https://in-the-sky.org/news.php?id=20231010_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231010_15_100@in-the-sky.org
+DTSTAMP:20231010T154113Z
+DTSTART:20231010T154113Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 5&deg;54&#39; of each other. https://in-the-sky.org/news.php?id=20231010_15_100
+URL:https://in-the-sky.org/news.php?id=20231010_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231010_10_100@in-the-sky.org
+DTSTAMP:20231010T215305Z
+DTSTART:20231010T215305Z
+SUMMARY:Southern Taurid meteor shower 2023
+DESCRIPTION:The Southern Taurid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231010_10_100
+URL:https://in-the-sky.org/news.php?id=20231010_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231011_10_100@in-the-sky.org
+DTSTAMP:20231011T220915Z
+DTSTART:20231011T220915Z
+SUMMARY:δ-Aurigid meteor shower 2023
+DESCRIPTION:The δ-Aurigid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231011_10_100
+URL:https://in-the-sky.org/news.php?id=20231011_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231014_09_100@in-the-sky.org
+DTSTAMP:20231014T180000Z
+DTSTART:20231014T180000Z
+SUMMARY:Annular solar eclipse
+DESCRIPTION:There will be an eclipse of the Sun,  visible from the Americas. https://in-the-sky.org/news.php?id=20231014_09_100
+URL:https://in-the-sky.org/news.php?id=20231014_09_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231018_10_100@in-the-sky.org
+DTSTAMP:20231018T233841Z
+DTSTART:20231018T233841Z
+SUMMARY:ε-Geminid meteor shower 2023
+DESCRIPTION:The ε-Geminid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231018_10_100
+URL:https://in-the-sky.org/news.php?id=20231018_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231022_10_100@in-the-sky.org
+DTSTAMP:20231022T000529Z
+DTSTART:20231022T000529Z
+SUMMARY:Orionid meteor shower 2023
+DESCRIPTION:The Orionid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231022_10_100
+URL:https://in-the-sky.org/news.php?id=20231022_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231022_08_100@in-the-sky.org
+DTSTAMP:20231022T032958Z
+DTSTART:20231022T032958Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20231022_08_100
+URL:https://in-the-sky.org/news.php?id=20231022_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231022_11_100@in-the-sky.org
+DTSTAMP:20231022T213620Z
+DTSTART:20231022T213620Z
+SUMMARY:Venus at dichotomy
+DESCRIPTION:Venus reaches half phase in the dawn sky. https://in-the-sky.org/news.php?id=20231022_11_100
+URL:https://in-the-sky.org/news.php?id=20231022_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231024_11_100@in-the-sky.org
+DTSTAMP:20231018T000542Z
+DTSTART:20231018T000542Z
+SUMMARY:Venus at highest altitude in morning sky
+DESCRIPTION:Venus is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20231024_11_100
+URL:https://in-the-sky.org/news.php?id=20231024_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231024_11_101@in-the-sky.org
+DTSTAMP:20231024T000542Z
+DTSTART:20231024T000542Z
+SUMMARY:Venus at greatest elongation west
+DESCRIPTION:Venus is bright and well placed in the dawn sky. https://in-the-sky.org/news.php?id=20231024_11_101
+URL:https://in-the-sky.org/news.php?id=20231024_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20231024_20_100@in-the-sky.org
+DTSTAMP:20231024T075542Z
+DTSTART:20231024T075542Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;46&#39;. https://in-the-sky.org/news.php?id=20231024_20_100
+URL:https://in-the-sky.org/news.php?id=20231024_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231024_15_100@in-the-sky.org
+DTSTAMP:20231024T094719Z
+DTSTART:20231024T094719Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;32&#39; of each other. https://in-the-sky.org/news.php?id=20231024_15_100
+URL:https://in-the-sky.org/news.php?id=20231024_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231025_10_100@in-the-sky.org
+DTSTAMP:20231025T002606Z
+DTSTART:20231025T002606Z
+SUMMARY:Leonis Minorid meteor shower 2023
+DESCRIPTION:The Leonis Minorid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231025_10_100
+URL:https://in-the-sky.org/news.php?id=20231025_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231028_09_100@in-the-sky.org
+DTSTAMP:20231028T201500Z
+DTSTART:20231028T201500Z
+SUMMARY:Partial lunar eclipse
+DESCRIPTION:There will be an eclipse of the Moon, visible from Asia, Russia, Africa, the Americas, Europe, Antarctica and Oceania. https://in-the-sky.org/news.php?id=20231028_09_100
+URL:https://in-the-sky.org/news.php?id=20231028_09_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231028_08_100@in-the-sky.org
+DTSTAMP:20231028T202357Z
+DTSTART:20231028T202357Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20231028_08_100
+URL:https://in-the-sky.org/news.php?id=20231028_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231029_15_100@in-the-sky.org
+DTSTAMP:20231029T061019Z
+DTSTART:20231029T061019Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 2&deg;53&#39; of each other. https://in-the-sky.org/news.php?id=20231029_15_100
+URL:https://in-the-sky.org/news.php?id=20231029_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231029_20_100@in-the-sky.org
+DTSTAMP:20231029T081412Z
+DTSTART:20231029T081412Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 3&deg;08&#39;. https://in-the-sky.org/news.php?id=20231029_20_100
+URL:https://in-the-sky.org/news.php?id=20231029_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231030_15_100@in-the-sky.org
+DTSTAMP:20231030T154918Z
+DTSTART:20231030T154918Z
+SUMMARY:Close approach of the Moon and M45
+DESCRIPTION:The Moon and M45 pass within 0&deg;59&#39; of each other. https://in-the-sky.org/news.php?id=20231030_15_100
+URL:https://in-the-sky.org/news.php?id=20231030_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231101_12_100@in-the-sky.org
+DTSTAMP:20231101T210034Z
+DTSTART:20231101T210034Z
+SUMMARY:Jupiter at perigee
+DESCRIPTION:Jupiter reaches its closest point to the Earth. https://in-the-sky.org/news.php?id=20231101_12_100
+URL:https://in-the-sky.org/news.php?id=20231101_12_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231103_12_100@in-the-sky.org
+DTSTAMP:20231103T045502Z
+DTSTART:20231103T045502Z
+SUMMARY:Jupiter at opposition
+DESCRIPTION:Jupiter is well placed in the sky. https://in-the-sky.org/news.php?id=20231103_12_100
+URL:https://in-the-sky.org/news.php?id=20231103_12_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231104_12_100@in-the-sky.org
+DTSTAMP:20231104T071606Z
+DTSTART:20231104T071606Z
+SUMMARY:Saturn ends retrograde motion
+DESCRIPTION:Saturn returns to its usual eastward motion after opposition. https://in-the-sky.org/news.php?id=20231104_12_100
+URL:https://in-the-sky.org/news.php?id=20231104_12_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231105_08_100@in-the-sky.org
+DTSTAMP:20231105T083727Z
+DTSTART:20231105T083727Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20231105_08_100
+URL:https://in-the-sky.org/news.php?id=20231105_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231109_20_100@in-the-sky.org
+DTSTAMP:20231109T093022Z
+DTSTART:20231109T093022Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 1&deg;00&#39;. https://in-the-sky.org/news.php?id=20231109_20_100
+URL:https://in-the-sky.org/news.php?id=20231109_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231109_15_100@in-the-sky.org
+DTSTAMP:20231109T103444Z
+DTSTART:20231109T103444Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 0&deg;53&#39; of each other. https://in-the-sky.org/news.php?id=20231109_15_100
+URL:https://in-the-sky.org/news.php?id=20231109_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231112_10_100@in-the-sky.org
+DTSTAMP:20231112T235520Z
+DTSTART:20231112T235520Z
+SUMMARY:Northern Taurid meteor shower 2023
+DESCRIPTION:The Northern Taurid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231112_10_100
+URL:https://in-the-sky.org/news.php?id=20231112_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231118_10_100@in-the-sky.org
+DTSTAMP:20231118T061048Z
+DTSTART:20231118T061048Z
+SUMMARY:Leonid meteor shower 2023
+DESCRIPTION:The Leonid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231118_10_100
+URL:https://in-the-sky.org/news.php?id=20231118_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231118_17_100@in-the-sky.org
+DTSTAMP:20231118T235740Z
+DTSTART:20231118T235740Z
+SUMMARY:M45 is well placed
+DESCRIPTION:The Pleiades open star cluster (M45; mag 1.6) in Taurus culminates at around midnight local time. https://in-the-sky.org/news.php?id=20231118_17_100
+URL:https://in-the-sky.org/news.php?id=20231118_17_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231120_08_100@in-the-sky.org
+DTSTAMP:20231120T105026Z
+DTSTART:20231120T105026Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20231120_08_100
+URL:https://in-the-sky.org/news.php?id=20231120_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231120_20_100@in-the-sky.org
+DTSTAMP:20231120T140602Z
+DTSTART:20231120T140602Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;43&#39;. https://in-the-sky.org/news.php?id=20231120_20_100
+URL:https://in-the-sky.org/news.php?id=20231120_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231120_15_100@in-the-sky.org
+DTSTAMP:20231120T155832Z
+DTSTART:20231120T155832Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;29&#39; of each other. https://in-the-sky.org/news.php?id=20231120_15_100
+URL:https://in-the-sky.org/news.php?id=20231120_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231122_10_100@in-the-sky.org
+DTSTAMP:20231122T051830Z
+DTSTART:20231122T051830Z
+SUMMARY:α-Monocerotid meteor shower 2023
+DESCRIPTION:The α-Monocerotid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231122_10_100
+URL:https://in-the-sky.org/news.php?id=20231122_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231125_15_100@in-the-sky.org
+DTSTAMP:20231125T091920Z
+DTSTART:20231125T091920Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 2&deg;31&#39; of each other. https://in-the-sky.org/news.php?id=20231125_15_100
+URL:https://in-the-sky.org/news.php?id=20231125_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231125_20_100@in-the-sky.org
+DTSTAMP:20231125T111412Z
+DTSTART:20231125T111412Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 2&deg;46&#39;. https://in-the-sky.org/news.php?id=20231125_20_100
+URL:https://in-the-sky.org/news.php?id=20231125_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231127_15_100@in-the-sky.org
+DTSTAMP:20231127T012149Z
+DTSTART:20231127T012149Z
+SUMMARY:Close approach of the Moon and M45
+DESCRIPTION:The Moon and M45 pass within 1&deg;00&#39; of each other. https://in-the-sky.org/news.php?id=20231127_15_100
+URL:https://in-the-sky.org/news.php?id=20231127_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231127_08_100@in-the-sky.org
+DTSTAMP:20231127T091612Z
+DTSTART:20231127T091612Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20231127_08_100
+URL:https://in-the-sky.org/news.php?id=20231127_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231128_10_100@in-the-sky.org
+DTSTAMP:20231128T202209Z
+DTSTART:20231128T202209Z
+SUMMARY:November Orionid meteor shower 2023
+DESCRIPTION:The November Orionid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231128_10_100
+URL:https://in-the-sky.org/news.php?id=20231128_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231204_11_101@in-the-sky.org
+DTSTAMP:20231204T172609Z
+DTSTART:20231204T172609Z
+SUMMARY:Mercury at greatest elongation east
+DESCRIPTION:Mercury is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20231204_11_101
+URL:https://in-the-sky.org/news.php?id=20231204_11_101
+END:VEVENT
+BEGIN:VEVENT
+UID:20231204_11_100@in-the-sky.org
+DTSTAMP:20231210T172609Z
+DTSTART:20231210T172609Z
+SUMMARY:Mercury at highest altitude in evening sky
+DESCRIPTION:Mercury is bright and well placed in the evening sky. https://in-the-sky.org/news.php?id=20231204_11_100
+URL:https://in-the-sky.org/news.php?id=20231204_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231205_08_100@in-the-sky.org
+DTSTAMP:20231205T054956Z
+DTSTART:20231205T054956Z
+SUMMARY:Moon at Last Quarter
+DESCRIPTION:The Moon rises in the east at around midnight and appears high in the sky at sunrise. https://in-the-sky.org/news.php?id=20231205_08_100
+URL:https://in-the-sky.org/news.php?id=20231205_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231206_10_100@in-the-sky.org
+DTSTAMP:20231206T174704Z
+DTSTART:20231206T174704Z
+SUMMARY:December φ-Cassiopeid meteor shower 2023
+DESCRIPTION:The December φ-Cassiopeid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231206_10_100
+URL:https://in-the-sky.org/news.php?id=20231206_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231208_11_100@in-the-sky.org
+DTSTAMP:20231208T114431Z
+DTSTART:20231208T114431Z
+SUMMARY:Mercury at dichotomy
+DESCRIPTION:Mercury reaches half phase in the evening sky. https://in-the-sky.org/news.php?id=20231208_11_100
+URL:https://in-the-sky.org/news.php?id=20231208_11_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231209_15_100@in-the-sky.org
+DTSTAMP:20231209T134358Z
+DTSTART:20231209T134358Z
+SUMMARY:Close approach of the Moon and Venus
+DESCRIPTION:The Moon and Venus pass within 3&deg;18&#39; of each other. https://in-the-sky.org/news.php?id=20231209_15_100
+URL:https://in-the-sky.org/news.php?id=20231209_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231209_10_100@in-the-sky.org
+DTSTAMP:20231209T164030Z
+DTSTART:20231209T164030Z
+SUMMARY:Monocerotid meteor shower 2023
+DESCRIPTION:The Monocerotid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231209_10_100
+URL:https://in-the-sky.org/news.php?id=20231209_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231209_20_100@in-the-sky.org
+DTSTAMP:20231209T165426Z
+DTSTART:20231209T165426Z
+SUMMARY:Conjunction of the Moon and Venus
+DESCRIPTION:The Moon and Venus share the same right ascension, at a separation of 3&deg;38&#39;. https://in-the-sky.org/news.php?id=20231209_20_100
+URL:https://in-the-sky.org/news.php?id=20231209_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231212_10_100@in-the-sky.org
+DTSTAMP:20231212T153006Z
+DTSTART:20231212T153006Z
+SUMMARY:σ-Hydrid meteor shower 2023
+DESCRIPTION:The σ-Hydrid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231212_10_100
+URL:https://in-the-sky.org/news.php?id=20231212_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231214_10_100@in-the-sky.org
+DTSTAMP:20231214T192433Z
+DTSTART:20231214T192433Z
+SUMMARY:Geminid meteor shower 2023
+DESCRIPTION:The Geminid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231214_10_100
+URL:https://in-the-sky.org/news.php?id=20231214_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231216_10_100@in-the-sky.org
+DTSTAMP:20231216T135153Z
+DTSTART:20231216T135153Z
+SUMMARY:Comae Berenicid meteor shower 2023
+DESCRIPTION:The Comae Berenicid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231216_10_100
+URL:https://in-the-sky.org/news.php?id=20231216_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231217_20_100@in-the-sky.org
+DTSTAMP:20231217T220141Z
+DTSTART:20231217T220141Z
+SUMMARY:Conjunction of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn share the same right ascension, at a separation of 2&deg;28&#39;. https://in-the-sky.org/news.php?id=20231217_20_100
+URL:https://in-the-sky.org/news.php?id=20231217_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231217_15_100@in-the-sky.org
+DTSTAMP:20231217T234455Z
+DTSTART:20231217T234455Z
+SUMMARY:Close approach of the Moon and Saturn
+DESCRIPTION:The Moon and Saturn pass within 2&deg;15&#39; of each other. https://in-the-sky.org/news.php?id=20231217_15_100
+URL:https://in-the-sky.org/news.php?id=20231217_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231219_08_100@in-the-sky.org
+DTSTAMP:20231219T183946Z
+DTSTART:20231219T183946Z
+SUMMARY:Moon at First Quarter
+DESCRIPTION:The Moon appears high in the sky at sunset and sets in the west at around midnight. https://in-the-sky.org/news.php?id=20231219_08_100
+URL:https://in-the-sky.org/news.php?id=20231219_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231220_10_100@in-the-sky.org
+DTSTAMP:20231220T121048Z
+DTSTART:20231220T121048Z
+SUMMARY:December Leonis Minorid meteor shower 2023
+DESCRIPTION:The December Leonis Minorid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231220_10_100
+URL:https://in-the-sky.org/news.php?id=20231220_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231222_07_100@in-the-sky.org
+DTSTAMP:20231222T032444Z
+DTSTART:20231222T032444Z
+SUMMARY:December solstice
+DESCRIPTION:22 December will be the shortest day of 2023 in the northern hemisphere. https://in-the-sky.org/news.php?id=20231222_07_100
+URL:https://in-the-sky.org/news.php?id=20231222_07_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231222_15_100@in-the-sky.org
+DTSTAMP:20231222T123130Z
+DTSTART:20231222T123130Z
+SUMMARY:Close approach of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter pass within 2&deg;22&#39; of each other. https://in-the-sky.org/news.php?id=20231222_15_100
+URL:https://in-the-sky.org/news.php?id=20231222_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231222_20_100@in-the-sky.org
+DTSTAMP:20231222T142421Z
+DTSTART:20231222T142421Z
+SUMMARY:Conjunction of the Moon and Jupiter
+DESCRIPTION:The Moon and Jupiter share the same right ascension, at a separation of 2&deg;36&#39;. https://in-the-sky.org/news.php?id=20231222_20_100
+URL:https://in-the-sky.org/news.php?id=20231222_20_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231223_10_100@in-the-sky.org
+DTSTAMP:20231223T034939Z
+DTSTART:20231223T034939Z
+SUMMARY:Ursid meteor shower 2023
+DESCRIPTION:The Ursid meteor shower reaches its peak. https://in-the-sky.org/news.php?id=20231223_10_100
+URL:https://in-the-sky.org/news.php?id=20231223_10_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231224_15_100@in-the-sky.org
+DTSTAMP:20231224T085652Z
+DTSTART:20231224T085652Z
+SUMMARY:Close approach of the Moon and M45
+DESCRIPTION:The Moon and M45 pass within 0&deg;57&#39; of each other. https://in-the-sky.org/news.php?id=20231224_15_100
+URL:https://in-the-sky.org/news.php?id=20231224_15_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231227_08_100@in-the-sky.org
+DTSTAMP:20231227T003308Z
+DTSTART:20231227T003308Z
+SUMMARY:Full Moon
+DESCRIPTION:The Moon is visible for much of the night. https://in-the-sky.org/news.php?id=20231227_08_100
+URL:https://in-the-sky.org/news.php?id=20231227_08_100
+END:VEVENT
+BEGIN:VEVENT
+UID:20231231_12_100@in-the-sky.org
+DTSTAMP:20231231T024153Z
+DTSTART:20231231T024153Z
+SUMMARY:Jupiter ends retrograde motion
+DESCRIPTION:Jupiter returns to its usual eastward motion after opposition. https://in-the-sky.org/news.php?id=20231231_12_100
+URL:https://in-the-sky.org/news.php?id=20231231_12_100
+END:VEVENT
+END:VCALENDAR
