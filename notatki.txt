@@ -17,7 +17,7 @@ BEGIN:VEVENT {
 
 DTSTART, SUMMARY, DESCRIPTION-url, URL;
 
-
+ 
 
 
 array of objects (events)
@@ -27,3 +27,163 @@ loop: events
 
 while (there is another line)
   until END:VEVENT
+
+
+
+
+remove url:
+  regex:
+    zaczyna się od ". https://"
+    \.\shttps:\/\/.+
+
+
+The Moon and Mars share the same right ascension, at a separation of 0&deg;32&#39;. https://in-the-sky.org/news.php?id=20230103_20_100
+
+
+
+print('hello world')
+#File_object = open("frankfurt2023.ics","r");
+output = ""
+
+
+
+
+for x in range (5):
+    print(x)
+    print(str(x),' m')
+
+
+
+
+with open("frankfurt2023.ics","r") as inputFile:
+    for line in inputFile:
+        output += line.strip()
+
+
+def ItemIntoObject(inputText, closingKeyword, outputProperties):
+    while !closingKeyword:
+        outputItem.outputProperties[count]
+        count += 1
+
+
+def ItemIntoObject(inputText, closingKeyword, outputProperties):
+    while !closingKeyword:
+        outputItem.outputProperties[count]
+        count += 1
+
+
+
+
+BEGIN:VEVENT
+UID:20230103_20_100@in-the-sky.org
+DTSTAMP:20230103T193625Z
+DTSTART:20230103T193625Z
+SUMMARY:Conjunction of the Moon and Mars
+DESCRIPTION:The Moon and Mars share the same right ascension, at a separation of 0&deg;32&#39;. https://in-the-sky.org/news.php?id=20230103_20_100
+URL:https://in-the-sky.org/news.php?id=20230103_20_100
+END:VEVENT
+
+
+tekst przed pierwszym dwukropkiem: nazwa property
+tekst po pierwszym! dwukropku: atrybut
+
+
+
+
+
+
+
+
+
+[attributeName, attributeValue] = [False, False]
+#print([attributeName, attributeValue])
+if (attributeName and attributeValue):
+    print(True)
+else:
+    print(False)
+#print(item[attributeName])
+print(LineIntoAttribute(testLine))
+
+saveAsCsv(textDescription)
+
+#[attributeName, attributeValue] = re.split(':', 'DTSTART:20230103T193625Z', 1)
+#item = {attributeName: attributeValue}
+#item = {}
+#item[attributeName] = attributeValue
+#print(item[attributeName])
+#print(attributeName)
+#print(re.split(':', 'DTSTART:20230103T193625Z', 1))
+#print(removeUrl(textDescription, textToRemove))
+#print(html.unescape(textDescription))
+
+
+
+nie działa:
+items = [
+    [
+        'DTSTART':'20230103T193625Z',
+        'SUMMARY':'Conjunction of the Moon and Mars',
+        'DESCRIPTION':'The Moon and Mars share the same right ascension, at a separation of',
+        'URL':'https://in-the-sky.org/news.php?id=20230103_20_100'
+    ]
+]
+print(itemsListIntoCsvText(items))
+
+
+działa:
+items = [
+    {
+        'DTSTART':'20230103T193625Z',
+        'SUMMARY':'Conjunction of the Moon and Mars',
+        'DESCRIPTION':'The Moon and Mars share the same right ascension, at a separation of',
+        'URL':'https://in-the-sky.org/news.php?id=20230103_20_100'
+    }
+]
+print(itemsListIntoCsvText(items))
+
+
+
+
+if (newLine = 'openingKeyword'):
+    readAttributes()
+
+
+
+
+
+items = [
+    {
+        'DTSTART':'20230103T193625Z',
+        'SUMMARY':'Conjunction of the Moon and Mars',
+        'DESCRIPTION':'The Moon and Mars share the same right ascension, at a separation of',
+        'URL':'https://in-the-sky.org/news.php?id=20230103_20_100'
+    }
+]
+
+outputText = itemsListIntoCsvText(items)
+saveAsCsv(outputText)
+
+
+
+
+
+
+line = inputFile.readline()
+newLine = re.sub('\n', '', line)
+print('"'+newLine+'"')
+if (newLine == 'BEGIN:VCALENDAR'):
+    print('file start')
+
+
+
+
+
+item = []
+        while (line and line != closingKeyword):
+            eventLine = inputFile.readline()
+            eventLine = re.sub('\n', '', inputFile.readline())
+            item.append(line)
+
+
+        #newLine = inputFile.readline()
+        print('another event')
