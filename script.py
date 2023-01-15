@@ -5,7 +5,7 @@ from datetime import datetime
 OPENING_KEYWORD = 'BEGIN:VEVENT'
 CLOSING_KEYWORD = 'END:VEVENT'
 DESIRED_ATTRIBUTES = ['DTSTART', 'SUMMARY', 'DESCRIPTION', 'URL']
-OUTPUT_FILE_PATH = 'calendarAs.csv'
+OUTPUT_FILE_PATH = 'calendarAs2.csv'
 INPUT_FILE_PATH = 'frankfurt2023.ics'
 REDUNDANT_EVENTS = ['Full Moon', 'Moon at Last Quarter', 'Moon at First Quarter']
 
@@ -49,10 +49,18 @@ def time_from_ical(iCalTime):
     output = datetime.strptime(iCalTime, "%Y%m%dT%H%M%SZ")
     return output.isoformat()
 
+def remove_redundant_events(listOfEvents, eventsToRemove):
+    reducedEvents = []
+    for element in listOfEvents:
+        if element['SUMMARY'] not in eventsToRemove:
+            reducedEvents.append(element)
+    return reducedEvents
+
 all_events = []
 
 input_file = open(INPUT_FILE_PATH, 'r', encoding='utf8')
 
+#read and parse file
 for line in input_file:
     line = re.sub('\n', '', line)
     if (line == OPENING_KEYWORD):
@@ -65,11 +73,12 @@ for line in input_file:
                 event = lines_into_event(all_event_attributes)
                 all_events.append(event)
                 break
-        
 
 input_file.close()
 
-output_text = items_list_into_csv_text(all_events)
+output_events = remove_redundant_events(all_events, REDUNDANT_EVENTS)
+
+output_text = items_list_into_csv_text(output_events)
 
 save_as_csv(output_text)
 
